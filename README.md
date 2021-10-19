@@ -12,3 +12,5 @@ https://ACastilleja.github.io/run-buddy/
 
 ## Contribution
 Made with❤️ by Arturo Castilleja
+
+### ©️2019 Run Buddy, Inc
